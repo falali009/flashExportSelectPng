@@ -1,7 +1,7 @@
-//导出所选到png v1.3
+//导出所选到png v1.4
 //将flash所选内容保存为png
 //  素材将保存到脚本目录下的 JSFL 文件夹里
- 
+//根据代码出处改写 https://github.com/hufang360/FlashTool
 //	支持将素材放大导出
 
 //将保存位置设置为脚本同目录下的 JSFL 文件夹
